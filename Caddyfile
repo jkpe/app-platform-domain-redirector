@@ -1,0 +1,8 @@
+:80 {
+    app-redirect-1.667065.xyz {
+        redir https://example.com{uri} 301
+    }
+    app-redirect-2.667065.xyz {
+        redir https://example.com{uri} 301
+    }
+}

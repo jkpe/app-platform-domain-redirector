@@ -1,7 +1,7 @@
 app-redirect-1.667065.xyz:80 {
-	redir https://example.com{uri} 301
+	redir https://google.com{uri} 301
 }
 
 app-redirect-2.667065.xyz:80 {
-	redir https://example.com{uri} 301
+	redir https://bing.com{uri} 301
 }
